@@ -1,0 +1,101 @@
+# Source dataset for the comparison table in README.md.
+# Run `python render_table.py --write` after editing to regenerate the table.
+# Facts (engine coverage, pricing, free options) reflect each vendor's public
+# positioning in early 2026 and change often. Corrections welcome via PR.
+
+tools:
+  - name: AIclicks
+    url: https://aiclicks.io
+    category: All-in-one AEO tracker
+    engines: "10+ (ChatGPT, Gemini, Claude, Perplexity, AI Overviews)"
+    free: "Free trial"
+    price_from: "$79/mo (promo $39)"
+    best_for: "End-to-end AEO tracking with citation attribution"
+
+  - name: AirOps
+    url: https://www.airops.com
+    category: Content production
+    engines: "ChatGPT, Gemini, Perplexity, Google AI"
+    free: "Free up to 100 prompts"
+    price_from: "Custom"
+    best_for: "AI content production at enterprise scale"
+
+  - name: Qwairy
+    url: ""
+    category: All-in-one AEO tracker
+    engines: "Multi-LLM"
+    free: "Trial"
+    price_from: "$79/mo"
+    best_for: "Competitor benchmarking across AI search"
+
+  - name: Gauge
+    url: ""
+    category: All-in-one AEO tracker
+    engines: "Multi-engine"
+    free: "Demo"
+    price_from: "Custom"
+    best_for: "Prompt monitoring with integrations"
+
+  - name: Surfer AI Tracker
+    url: https://surferseo.com
+    category: SEO suite
+    engines: "5 AI platforms"
+    free: "Trial"
+    price_from: "$99/mo"
+    best_for: "SEO and AEO in one platform"
+
+  - name: Rank Prompt
+    url: ""
+    category: Budget and agency
+    engines: "Multi-LLM with schema tracking"
+    free: "Trial"
+    price_from: "$49/mo"
+    best_for: "Budget multi-project agency tracking"
+
+  - name: Ahrefs Brand Radar
+    url: https://ahrefs.com
+    category: SEO suite
+    engines: "Google SERPs and AI Overviews"
+    free: "Limited free tools"
+    price_from: "$129/mo + $199/mo AI add-on"
+    best_for: "Adding AEO to an Ahrefs workflow"
+
+  - name: SE Ranking
+    url: https://seranking.com
+    category: SEO suite
+    engines: "AI Overviews and SERPs"
+    free: "Trial"
+    price_from: "$89/mo"
+    best_for: "SEO suite users adding AI search tracking"
+
+  - name: ProductRank.ai
+    url: ""
+    category: Free check
+    engines: "Limited"
+    free: "Free"
+    price_from: "Free"
+    best_for: "A quick, free brand visibility check"
+
+  - name: Gumshoe
+    url: ""
+    category: Analytics
+    engines: "Conversational engines"
+    free: "Demo"
+    price_from: "Custom ($0.10/conversation)"
+    best_for: "Persona and segment-level visibility"
+
+  - name: AI SEO Tracker
+    url: ""
+    category: All-in-one AEO tracker
+    engines: "Multi-engine, prompt-level"
+    free: "Trial"
+    price_from: "$79/mo"
+    best_for: "Real-time Slack alerts on prompt visibility"
+
+  - name: Scrunch
+    url: https://scrunch.com
+    category: Enterprise
+    engines: "All major LLMs"
+    free: "Demo"
+    price_from: "$100/mo"
+    best_for: "Enterprise AEO optimization"
