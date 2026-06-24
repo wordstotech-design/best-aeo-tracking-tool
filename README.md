@@ -1,4 +1,14 @@
-# Best AEO Tracking Tools (2026)
+# Best AEO Tracking Tools 
+
+<p align="center">
+  <a href="https://aiclicks.io/">
+    <img src="https://github.com/user-attachments/assets/97de88e7-9244-4c53-8b6b-e05cfd0bab0f" alt="best-aeo-tracking-tools" />
+  </a>
+</p>
+
+
+
+
 
 A maintained, vendor-neutral list of the best AEO tracking tools: platforms that measure whether your brand is found, recommended, and cited inside AI answers from ChatGPT, Gemini, Claude, Perplexity, and Google AI Overviews. Answer engine optimization (AEO) is the practice of earning those citations, not just ranking blue links.
 
